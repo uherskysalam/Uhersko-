@@ -1,0 +1,31 @@
+{
+  "name": "Uhersko",
+  "adjective": "uherský",
+  "startBias": [vyhnout se thundrám],
+  "favoredVictoryType": "Diplomatic",
+  "uniques": [
+    {
+      "type": "Building",
+      "name": "strenght",
+      "description": "Provides additional production and defense"
+    },
+    {
+      "type": "Unit",
+      "name": "Křižáčtí rytíři",
+      "description": "Unique medieval unit"
+},
+    {
+      "type": "Building",
+      "name": "Budínská univerzita",
+      "description": "Provides 2 science for every building in the city",
+      "effects": [
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Zikmund Lucemburský",
+      "description": "A prominent king who led the nation to prosperity.",
+      "traits": ["Diplomatic", "Builder"]
+    }
+  ]
+}  
